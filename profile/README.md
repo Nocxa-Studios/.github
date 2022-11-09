@@ -1,6 +1,6 @@
 ## Welcome to the GitHub page for Nocxa
 
-###The Team###
+### The Team ###
 
 ***Frontend Developers***
 - Reanna Bakshani
