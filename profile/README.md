@@ -10,5 +10,3 @@
 ***Backend Developers***
 - Gowtham Ravindrathas
 - Zackary Jackson
-
-<img align="right" src="https://i.giphy.com/media/Qyml5wziJeHreuOdzu/giphy.webp" width="200"/>
