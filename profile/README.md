@@ -11,4 +11,4 @@
 - Gowtham Ravindrathas
 - Zackary Jackson
 
-<iframe src="https://giphy.com/embed/xThuWu82QD3pj4wvEQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xThuWu82QD3pj4wvEQ">via GIPHY</a></p>
+<img align="right" src="[https://i.giphy.com/media/Qyml5wziJeHreuOdzu/giphy.webp](https://giphy.com/embed/xThuWu82QD3pj4wvEQ)" width="200"/>
