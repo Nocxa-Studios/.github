@@ -6,6 +6,7 @@
 - Reanna Bakshani
 - Jia Tang Zhi
 - Manusha Ravindrathas
+- Jathu Ravindrathas
 
 ***Backend Developers***
 - Gowtham Ravindrathas
